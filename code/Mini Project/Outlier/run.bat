@@ -1,0 +1,2 @@
+python OutlierDetection.py
+pause
